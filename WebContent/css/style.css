@@ -1,0 +1,10 @@
+@charset "UTF-8";
+#main-form .main-form .shortfieldz .zmdi-link {
+    position: absolute;
+    font-size: 28px;
+    top: 10px; <----
+    left: 25px; 
+    color: #8c8c8c;
+    border-radius: 20px; <---
+    pointer-events: none;
+    
